@@ -1,0 +1,3 @@
+Archivo para ejemplo de lectura de archivos con node js.
+
+Contiene varias lineas para poder ejecutar un programa mas complejo.

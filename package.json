@@ -1,0 +1,17 @@
+{
+  "name": "16-nodejs",
+  "version": "1.0.0",
+  "description": "Revisamos las bases de la programación con node. La idea de tomar este curso es poder consumir los datos de la API de digifabster y poder generar reportes en base a los datos obtenidos.",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elias Rayas <eliasrayasg@gmail.com>",
+  "license": "MIT"
+}
